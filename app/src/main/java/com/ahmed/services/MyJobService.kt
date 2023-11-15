@@ -18,7 +18,7 @@ class MyJobService : JobService(){
             jobFinished(params,false)
         }
 
-        return false
+        return true
 
     }
 
